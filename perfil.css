@@ -1,0 +1,89 @@
+@media screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+}
+
+h1{
+    color: black;
+    text-align: center;
+}
+
+h3{
+    color: black;
+}
+
+body{
+    background-color: aqua;
+    border-radius: 10px;
+    color: blue;
+    border-style: dashed;
+    margin: 8;
+    padding: 10;
+}
+
+nav{
+    background-color: chartreuse;
+    border-radius: 30px;
+    padding: 10;
+    margin: 0;
+    color: red;
+    text-align: center;
+    scale: 1.0;
+}
+
+a{
+    border-radius: 10px;
+    text-decoration: none;
+    background-color: black;
+}
+
+img{
+    border-radius: 160px;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+.user-avatar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
+
+.banner-field{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+}
+
+
+.banner{
+    border-radius: 30px;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+.demo-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.demo-image{
+    border-radius: 40px;
+}
+
+.button{
+    color: rgb(233, 22, 22);
+    border-radius: 10px;
+    justify-content: center;
+}
+
+.button-container{
+    background-color: rgb(72, 248, 3);
+    border-radius: 30px;
+}
