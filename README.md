@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 you can contact me via discord: fetoyudev_official
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I still don't know what i can add here 🤣
+- ⚡ Fun fact: Cats are my favorite animal, I love cats so much
 
 <!---
 FetoyuDev/FetoyuDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
